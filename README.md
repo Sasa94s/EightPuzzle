@@ -1,0 +1,2 @@
+# EightPuzzle
+Project 8-puzzle game (Console Application) + (Desktop Application) using Java Swing. The 8-puzzle is a square board with 9 positions, filled by 8 numbered tiles and one gap. At any point, a tile adjacent to the gap can be moved into the gap, creating a new gap position. In other words the gap can be swapped with an adjacent tile. The objective in the game is to begin with an arbitrary configuration of tiles, and move them so as to get the numbered tiles arranged in ascending order. Advanced Algorithms - Task.
